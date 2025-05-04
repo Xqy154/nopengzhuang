@@ -1,0 +1,5 @@
+name: NoCollision
+version: 1.0
+main: com.yourname.nocollision.Main
+api-version: 1.12
+description: 禁用所有实体之间的碰撞
